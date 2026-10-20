@@ -2,7 +2,7 @@
 
 ## API Minimal .NET avec endpoint `/health`
 
-Prérequis : SDK .NET 8.
+Prérequis : SDK .NET 10.
 
 ```bash
 dotnet run --project src/MbaCiSample.Api   # puis GET /health -> 200 "Healthy"
