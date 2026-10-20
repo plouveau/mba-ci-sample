@@ -1,4 +1,5 @@
 # mba-ci-sample
+
 ## API Minimal .NET avec endpoint `/health`
 
 Prérequis : SDK .NET 8.
