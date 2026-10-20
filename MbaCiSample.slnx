@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/MbaCiSample.Api/MbaCiSample.Api.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/MbaCiSample.Api.Tests/MbaCiSample.Api.Tests.csproj" />
+  </Folder>
+</Solution>
